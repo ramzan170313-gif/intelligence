@@ -10,8 +10,8 @@ body{
 .container{
     max-width: 1240px;
     width: 100%;
-    padding: auto;
-    margin: 20px auto;
+    padding: 0px auto;
+    margin: 0px auto;
 
 }
 .header{
