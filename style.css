@@ -12,14 +12,18 @@ body{
     width: 100%;
     padding: 0px auto;
     margin: 0px auto;
-
 }
 .header{
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    height: 100px;
-    background-color: #07101f;
+    align-items: center;
+}
+header{
+        background-color: #07101f;
+        height: 100px;
+        display: flex;
+            align-items: center;
+        
 }
 .header ul{
   display: flex;
